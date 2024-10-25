@@ -11,11 +11,24 @@ def create_app():
 
     @app.route('/')
     def home():
-        return {"message": "Api de fonecedores"}
+        return {"message": "Api supplier"}
 
     @app.route('/supplier', methods=['GET'])
     def list_supplier():
         supplier = load_data()
         return jsonify(supplier)
+
+    @app.route('/supplier/recommend/<int:kwh>', methods=['GET'])
+    def recommend_supplier(kwh):
+        supplier = load_data()
+        
+        filter_supplier = [f for f in supplier if f['minimum_kWh_limit'] <= kwh]
+
+        if not filter_supplier:
+            return jsonify({"message": "No suppliers"}), 404
+        
+        ordered_supplier = sorted(filter_supplier, key=lambda f: f['cost_per_kwh'])
+        
+        return jsonify(ordered_supplier), 200
 
     return app
