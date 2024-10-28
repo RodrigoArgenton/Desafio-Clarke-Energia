@@ -1,7 +1,7 @@
 [
   {
     "name": "Solar Energy Plus",
-    "logo": "https://www.example.com/logo1.png",
+    "logo": "https://img.freepik.com/vetores-gratis/design-de-logotipo-de-energia_23-2150013328.jpg?t=st=1730074321~exp=1730077921~hmac=3edc0a0c8a34de2f861a2440f959c37f4312bc0fa9a01a2065e7519b5934297c&w=826",
     "state_of_origin": "São Paulo",
     "cost_per_kwh": 0.45,
     "minimum_kWh_limit": 100,
@@ -10,7 +10,7 @@
   },
   {
     "name": "Green Power",
-    "logo": "https://www.example.com/logo2.png",
+    "logo": "https://img.freepik.com/vetores-gratis/design-de-logotipo-de-energia-gradiente_23-2150050928.jpg?t=st=1730074369~exp=1730077969~hmac=585e473dac825c24cf9e496f2f27d07ff2d0d7f1caca887f8d43953a1062afe0&w=826",
     "state_of_origin": "Minas Gerais",
     "cost_per_kwh": 0.42,
     "minimum_kWh_limit": 150,
@@ -19,7 +19,7 @@
   },
   {
     "name": "Future Light",
-    "logo": "https://www.example.com/logo3.png",
+    "logo": "https://img.freepik.com/vetores-gratis/modelo-de-design-de-logotipo-de-energia_23-2150060362.jpg?t=st=1730074382~exp=1730077982~hmac=10b8a780e2c42e9db0eb34ebded69e0c049fe613310b55d8d5b377525bc8b513&w=826",
     "state_of_origin": "Rio de Janeiro",
     "cost_per_kwh": 0.50,
     "minimum_kWh_limit": 200,
@@ -28,7 +28,7 @@
   },
   {
     "name": "Clean Energy",
-    "logo": "https://www.example.com/logo4.png",
+    "logo": "https://img.freepik.com/vetores-gratis/modelo-de-design-de-logotipo-de-energia_23-2150064334.jpg?t=st=1730074406~exp=1730078006~hmac=95ce31d5a45a5d01a914d02339c0e330080d3f2746815adab3758fb939339795&w=826",
     "state_of_origin": "Bahia",
     "cost_per_kwh": 0.48,
     "minimum_kWh_limit": 120,
@@ -37,7 +37,7 @@
   },
   {
     "name": "Volt Energy",
-    "logo": "https://www.example.com/logo5.png",
+    "logo": "https://img.freepik.com/vetores-gratis/design-de-logotipo-de-energia-renovavel_23-2150011358.jpg?t=st=1730074422~exp=1730078022~hmac=97c5c19bae62382142e42d25866549da241907e547a77cc44175d8d7d080302d&w=826",
     "state_of_origin": "Paraná",
     "cost_per_kwh": 0.47,
     "minimum_kWh_limit": 180,
@@ -46,7 +46,7 @@
   },
   {
     "name": "Eco Power",
-    "logo": "https://www.example.com/logo6.png",
+    "logo": "https://img.freepik.com/vetores-gratis/design-de-logotipo-de-energia-renovavel_23-2150011938.jpg?t=st=1730074438~exp=1730078038~hmac=dd262133ffb99f8d6994b05bd0afd52098698b2882fbfbb44f11d957e52bebf7&w=826",
     "state_of_origin": "Amazonas",
     "cost_per_kwh": 0.60,
     "minimum_kWh_limit": 50,
@@ -55,7 +55,7 @@
   },
   {
     "name": "Smart Energy Solutions",
-    "logo": "https://www.example.com/logo7.png",
+    "logo": "https://img.freepik.com/vetores-gratis/modelo-de-design-de-logotipo-de-energia_23-2150029296.jpg?t=st=1730074455~exp=1730078055~hmac=d67daf861f99ed9a2d17809a5733f8168d8c451da7678632a5dfb236389ef79a&w=826",
     "state_of_origin": "Goiás",
     "cost_per_kwh": 0.38,
     "minimum_kWh_limit": 250,
@@ -64,7 +64,7 @@
   },
   {
     "name": "Affordable Power",
-    "logo": "https://www.example.com/logo8.png",
+    "logo": "https://img.freepik.com/vetores-premium/vector-de-simbolo-de-design-do-logotipo-do-relampago-verde_151157-2066.jpg?w=1380",
     "state_of_origin": "Ceará",
     "cost_per_kwh": 0.25,
     "minimum_kWh_limit": 500,
@@ -73,7 +73,7 @@
   },
   {
     "name": "Premium Energy",
-    "logo": "https://www.example.com/logo9.png",
+    "logo": "https://img.freepik.com/vetores-premium/energia-eletrica-criativa-energia-e-trovao-conceito-de-simbolo-de-eletricidade-design-de-logotipo_1261391-1207.jpg?w=1380",
     "state_of_origin": "Distrito Federal",
     "cost_per_kwh": 0.70,
     "minimum_kWh_limit": 20,
@@ -82,7 +82,7 @@
   },
   {
     "name": "Green Light",
-    "logo": "https://www.example.com/logo10.png",
+    "logo": "https://img.freepik.com/vetores-gratis/modelo-de-logotipo-de-energia-gradiente_23-2149999439.jpg?t=st=1730074508~exp=1730078108~hmac=c67ff040bb8284975c2cc161d3dbac76517c1405a7b4597e7a17fb9ac9867ae7&w=826",
     "state_of_origin": "Mato Grosso",
     "cost_per_kwh": 0.55,
     "minimum_kWh_limit": 80,
